@@ -1,11 +1,11 @@
-Colours!
-========
+Kolory!
+=======
 
-You can also create files with colours.
+Można także łatwo tworzyć kolorowe obrazki.
 
-Switch format to `P3` and add maximum colour intensity after height.
+Zmieniamy format na `P3` i dodajemy maksymalną możliwą wartość piksela.
 
-Store 3 values per pixel (red, green and blue).
+Podajemy po 3 wartości na piksel: czerwoną, zieloną i niebieską.
 
 ```
 P3 9 9 255

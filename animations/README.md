@@ -1,15 +1,15 @@
-Animations!
-===========
+Animacje!
+=========
 
-Generate multiple files with names in alphabetical order.
+Tworzymy kilka obrazków z nazwami w kolejności alfabetycznej.
 
-Use `convert` to generate a GIF:
+Używamy `convert` aby przerobić je na GIFa:
 
 ```
 convert render/*.ppm render.gif
 ```
 
-Or `ffmpeg` to generate an MP4:
+Albo `ffmpeg` aby zrobić z nich plik MP4:
 
 ```
 ffmpeg -i render/frame_%04d.ppm -f mp4 -pix_fmt yuv420p -c:v libx264 render.mp4

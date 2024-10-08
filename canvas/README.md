@@ -1,6 +1,6 @@
-Canvas!
+Płótno!
 =======
 
-In order to facilitate creating more complex
-artwork, create a `canvas` class. Draw on it,
-and print out at the end.
+Aby było nam łatwiej rysować bardziej skomplikowane
+obrazy, tworzymy strukturę `canvas`. Rysujemy na niej,
+a na końcu wypisujemy ją na standardowe wyjście.

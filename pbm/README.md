@@ -1,7 +1,7 @@
 Portable BitMap
 ===============
 
-Specify format (`P1`), width, height and 0 (white) or 1 (black) for every pixel.
+Podajemy format (`P1`), szerokość, wysokość i dla kolejnych pikseli 0 (biały) lub 1 (czarny).
 
 ```
 P1 10 10
@@ -17,6 +17,6 @@ P1 10 10
 0 0 0 0 0 0 0 0 0 0
 ```
 
-Save as `image.pbm`.
+Zapisujemy jako `image.pbm`.
 
-Convert to PNG with `convert image.pbm image.png`.
+Konwertujemy do PNG używając `convert image.pbm image.png`.

@@ -1,10 +1,10 @@
-Bitmaps!
+Bitmapy!
 ========
 
-or **Generating images and animations without linking external libraries**
+lub **Generowanie obrazów i animacji bez linkowania zewnętrznych bibliotek**
 
-1. [Bitmaps!](pbm)
-2. [Mandelbrot Set!](mandelbrot)
-3. [Colours!](colours)
-4. [Canvas!](canvas)
-5. [Animations!](animations)
+1. [Bitmapy!](pbm)
+2. [Zbiór Mandelbrota!](mandelbrot)
+3. [Kolory!](colours)
+4. [Płótno!](canvas)
+5. [Animacje!](animations)

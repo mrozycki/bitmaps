@@ -1,5 +1,5 @@
-Mandelbrot set!
-===============
+Zbiór Mandelbrota!
+==================
 
-The nested `for` loop with a condition inside
-is powerful enough to draw the Mandelbrot set.
+Zagnieżdżona pętla `for` z odpowiednim warunkiem w środku
+jest wystarczająca nawet do narysowania zbioru Mandelbrota.
